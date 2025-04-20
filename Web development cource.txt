@@ -1,0 +1,25 @@
+open file in vs code using cmd
+code .
+open file in intelij using cmd
+idea .
+
+Forms:
+<input>
+name attribute=why relevant input box use
+<label for="abc">First Name</label>
+<input type="text" name="fname"><br>
+
+<input type="text"
+input type
+input is password ,text , email or other
+
+<label for="abc">First Name</label>
+<input type="text" name="" required><br>
+required = front end validation
+
+put file path for forms action and method use for post and get method
+
+
+
+
+

@@ -1,0 +1,60 @@
+internet
+
+internet we use different works(managing our works)
+learning purpures
+entertainment purpures
+work purpures
+	
+large network. Connects computers and others smart devices all around the world. Share information between devices. 
+include:
+physical consistence
+routers, modems , repeaters
+
+Softwares, Applications like web brwser
+
+
+World Wide Web (WWW):
+WWW is collection of web pages and resources that are access through the internet using web browser
+part of the internet
+smaller than internet
+
+
+second lecture
+
+@How the internet works:
+structure of web address
+https://open.uom.lk
+https://=internet protocol
+open = sub domain
+uom.lk=domain name
+*web address is location of website that store
+.com = commercial website
+.gov = government
+.lk = sri Lanka
+
+have different website with same domain and different sub domain. Same location. But websites are different.
+
+@internet protocol 
+set of rules
+controls the data communication over the internet
+ex:
+FTP(File Transfer Protocol)=handle large files over the internet
+FTTP(Hypertext Transfer Protocol)=website use for share multimedia and text
+HTTPS(Hypertext Transfer Protocol Secured)= same as HTTP. But most secured
+
+frontend request and back end respond this request.
+
+
+third lecture
+
+Web programming And cloud compution
+
+
+
+
+
+
+
+
+
+
